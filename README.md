@@ -1,5 +1,8 @@
 # VS Code Go Version Manager (GVM) Extension
 
+![Go Switcher Icon](./assets/go-switcher-icon.webp)
+
+
 ## Overview
 
 This Visual Studio Code extension allows users to seamlessly switch between different Go versions managed by GVM (Go Version Manager). It updates the `go.goroot` and `go.gopath` settings in VS Code based on the selected Go version from the gvm list.
