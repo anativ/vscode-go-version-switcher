@@ -1,6 +1,6 @@
 # VS Code Go Version Manager (GVM) Extension
 
-![Go Switcher Icon](./assets/go-switcher-icon.webp)
+![Go Switcher Icon](go-switcher-icon.webp)
 
 
 ## Overview
