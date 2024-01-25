@@ -25,4 +25,7 @@ This Visual Studio Code extension allows users to seamlessly switch between diff
 Contributions to the extension are welcome! Please feel free to fork the repository, make changes, and create a pull request.
 
 ## Author
-Alon Nativ @anativ
+https://avatars.githubusercontent.com/u/616236
+[![Profile Image](https://github.com/anativ.png?s=48&v=4)](https://github.com/anativ)
+
+Alon Nativ [@anativ](https://github.com/anativ)
