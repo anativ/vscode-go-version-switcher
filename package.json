@@ -2,7 +2,7 @@
   "name": "go-version-switcher",
   "displayName": "Go Version Switcher",
   "description": "Switch Go Version Using Your GVM",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "icon": "go-switcher-icon.webp",
   "publisher": "alon-nativ",
   "engines": {
