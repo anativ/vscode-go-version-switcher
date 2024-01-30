@@ -54,10 +54,11 @@ function updateGoSettings(version) {
 }
 
 function parseGvmListOutput(output) {
-    // Split the output into lines and filter out only the Go version lines
+    // Split the output into lines
     return output.split('\n')
-                 .map(line => line.trim())
-                 .filter(line => line.startsWith('go') && line.match(/^go\d+\.\d+/))
+                 .map(line => line.trim()) // Trim each line
+                 .filter(line => line.match(/go\d+\.\d+/)) // Filter lines matching the pattern
+                 .map(line => line.match(/go\d+\.\d+/)[0]); // Extract the version number
 }
 
 // This method is called when your extension is deactivated
